@@ -3,7 +3,7 @@
   
   
 - 🔭 Hoje eu sou desenvolvedor front-end freelancer
-- 🌱 Javascript, HTML, CSS, React, Git
+- 🌱 Focado em Javascript, HTML, CSS, React, Git
 - 👨‍💻 All of my projects are available at winniciusmoura.com (LOADING...)
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Campeão Regional de Star Wars Destiny, Recife 2019. 😜
