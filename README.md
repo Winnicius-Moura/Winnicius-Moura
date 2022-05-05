@@ -1,10 +1,10 @@
-  <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Winnícius Moura</h1>
+  <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Olá!Eu sou o  Winnícius Moura</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=winnicius-moura&color=blue" alt="Profile views" /> </p>
   
   
 - 🔭 Hoje eu sou desenvolvedor front-end freelancer
 - 🌱 Focado em Javascript, HTML, CSS, React, Git
-- 👨‍💻 All of my projects are available at winniciusmoura.com (LOADING...)
+- 👨‍💻 Todos os meus projetos em breve -- winniciusmoura.com (LOADING...)
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Campeão Regional de Star Wars Destiny, Recife 2019. 😜
 
