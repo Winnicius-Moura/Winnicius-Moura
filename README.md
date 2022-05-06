@@ -58,4 +58,8 @@
 </p>
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=MouraWinni&layout=wide&show_reply=off&show_retweet=off"/>
+  
+![snake gif](https://github.com/Winnicius-Moura/Winnicius-Moura/blob/output/github-contribution-grid-snake.svg)
+  
+  
 
