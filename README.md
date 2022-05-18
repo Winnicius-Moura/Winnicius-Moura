@@ -30,13 +30,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
-  <a href="https://github.com/winnicius-moura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winnicius-moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnicius-moura&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-
+<p align="left">
+<img width="530em" src="https://github-readme-stats-beryl.vercel.app/api?username=winnicius-moura&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 <br><br>
 
 ## 🧔🏽 &nbsp;Social Links
