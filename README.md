@@ -5,7 +5,6 @@
 - 🔭 Front-end freelancer
 - ✍🏽 learning every day 
 - 👨‍💻 All my projects go to -- winniciusmoura.com (LOADING...)
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Campeão Regional de Star Wars Destiny, Recife 2019. 😜
 
  <div style="display: inline_block"><br>
