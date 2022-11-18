@@ -2,11 +2,12 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=winnicius-moura&color=blue" alt="Profile views" /> </p>
   
   
-- 🔭 Software Developer
-- ✍🏽 learning every day 
-- 👨‍💻 All my projects go to -- winniciusmoura.com (LOADING...)
-- ⚡ Fun fact: Campeão Regional de Star Wars Destiny, Recife 2019. 😜
-- teste
+- ☕ Software Developer.
+- 💻 Working on - SL7 Tecnologia.
+- ✍🏽 Learning every day.
+- 📚 Software Engineering Student - UniFatecie Centro Universitário.
+- 👨‍💻 All my personal projects go to -- winniciusmoura.com (LOADING...)
+- 🏆 Fun fact: Regional Champion Star Wars Destiny, Recife 2019.
 
  <div style="display: inline_block"><br>
   <img align="right" alt="Winni-img" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/Winnicius-Moura/0304825ed4550e9b21187d66cbb05046/raw/3a0777dc2c51d73d44396972a4f89939b4240486/githubimg.svg">
@@ -17,14 +18,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=TailwindCss)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 <br><br>
 
