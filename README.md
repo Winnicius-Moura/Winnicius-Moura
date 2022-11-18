@@ -6,6 +6,7 @@
 - ✍🏽 learning every day 
 - 👨‍💻 All my projects go to -- winniciusmoura.com (LOADING...)
 - ⚡ Fun fact: Campeão Regional de Star Wars Destiny, Recife 2019. 😜
+- teste
 
  <div style="display: inline_block"><br>
   <img align="right" alt="Winni-img" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/Winnicius-Moura/0304825ed4550e9b21187d66cbb05046/raw/3a0777dc2c51d73d44396972a4f89939b4240486/githubimg.svg">
