@@ -2,7 +2,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=winnicius-moura&color=blue" alt="Profile views" /> </p>
   
   
-- 🔭 Front-end freelancer
+- 🔭 Software Developer
 - ✍🏽 learning every day 
 - 👨‍💻 All my projects go to -- winniciusmoura.com (LOADING...)
 - ⚡ Fun fact: Campeão Regional de Star Wars Destiny, Recife 2019. 😜
