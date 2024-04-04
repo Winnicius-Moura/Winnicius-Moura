@@ -8,6 +8,7 @@
 - 📚 Software Engineering Student - UniFatecie Centro Universitário.
 - 👨‍💻 All my personal projects go to -- winniciusmoura.com (LOADING...)
 - 🏆 Fun fact: Regional Champion Star Wars Destiny, Recife 2019.
+  
 
  <div style="display: inline_block"><br>
   <img align="right" alt="Winni-img" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/Winnicius-Moura/0304825ed4550e9b21187d66cbb05046/raw/3a0777dc2c51d73d44396972a4f89939b4240486/githubimg.svg">
@@ -27,6 +28,21 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MaterialUi](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-38B2AC?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-38B2AC?style=for-the-badge&logo=dart&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-38B2AC?style=for-the-badge&logo=docker&logoColor=white)
+![Mongodb](https://img.shields.io/badge/Mongodb-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-38B2AC?style=for-the-badge&logo=redis&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket-38B2AC?style=for-the-badge&logo=socket&logoColor=white)
+![Go](https://img.shields.io/badge/Go-38B2AC?style=for-the-badge&logo=go&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C#-38B2AC?style=for-the-badge&logo=c#&logoColor=white)
+
+
+
+
+
+
 
 <br><br>
 
@@ -44,7 +60,5 @@
 </a>
 </p>
   
-![snake gif](https://github.com/Winnicius-Moura/Winnicius-Moura/blob/output/github-contribution-grid-snake.svg)
-
 
 
