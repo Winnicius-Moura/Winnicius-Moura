@@ -28,15 +28,15 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MaterialUi](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-38B2AC?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-38B2AC?style=for-the-badge&logo=dart&logoColor=1565C0)
-![Docker](https://img.shields.io/badge/Docker-38B2AC?style=for-the-badge&logo=docker&logoColor=1D63ED)
-![Mongodb](https://img.shields.io/badge/Mongodb-38B2AC?style=for-the-badge&logo=mongodb&logoColor=81C784)
-![Redis](https://img.shields.io/badge/Redis-38B2AC?style=for-the-badge&logo=redis&logoColor=B71C1C)
+![Flutter](https://img.shields.io/badge/Flutter-85CBF8?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-1565C0?style=for-the-badge&logo=dart&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+![Mongodb](https://img.shields.io/badge/Mongodb-81C784?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-B71C1C?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket](https://img.shields.io/badge/Socket-38B2AC?style=for-the-badge&logo=socket&logoColor=white)
-![Go](https://img.shields.io/badge/Go-38B2AC?style=for-the-badge&logo=go&logoColor=4DD0E1)
+![Go](https://img.shields.io/badge/Go-4DD0E1?style=for-the-badge&logo=go&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-38B2AC?style=for-the-badge&logo=csharp&logoColor=00E676)
+![CSharp](https://img.shields.io/badge/CSharp-00E676?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 
