@@ -3,7 +3,7 @@
   
   
 - ☕ Software Developer.
-- 💻 Working on - SL7 Tecnologia.
+- 💻 Work from anywhere!
 - ✍🏽 Learning every day.
 - 📚 Software Engineering Student - UniFatecie Centro Universitário.
 - 👨‍💻 All my personal projects go to -- winniciusmoura.com (LOADING...)
