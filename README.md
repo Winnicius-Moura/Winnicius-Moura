@@ -5,8 +5,9 @@
 - ☕ Software Developer.
 - 💻 Work from anywhere!
 - ✍🏽 Learning every day.
+- ☕ Tech Lead Elaborativa Metodologias Educativas
 - 📚 Software Engineering Student - UniFatecie Centro Universitário.
-- 👨‍💻 All my personal projects go to -- winniciusmoura.com (LOADING...)
+- 👨‍💻 All my personal projects go to -- winnicius.pro
 - 🏆 Fun fact: Regional Champion Star Wars Destiny, Recife 2019.
   
 
